@@ -17,7 +17,7 @@
     "process": "^0.11.10"
   },
   "dependencies": {
-    "@adobe/react-spectrum": "^3.31.1",
+    "@adobe/react-spectrum": "^3.38.0",
     "@spectrum-icons/illustrations": "^3.6.7",
     "@spectrum-icons/ui": "^3.6.1",
     "@spectrum-icons/workflow": "^4.2.6",
